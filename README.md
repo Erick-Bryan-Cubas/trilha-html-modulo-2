@@ -69,6 +69,10 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 
 3. **Menu** e **Footer** padrões em todas as páginas.
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
+## Desafio Finalizado! 🚀
 
-Bora pra cima!
+### Antes:
+![(Antes)](Antes.png)
+
+### Depois:
+![Depois](Depois.png)
